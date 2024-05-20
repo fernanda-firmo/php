@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    color:black;
+}
+
+body {
+    padding: 10px;
+    background-color: rgb(180, 193, 219);
+}
+
+h1, h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    margin-block: 16px;
+    background-color: cadetblue;
+}
+
+pre {
+    border-bottom: 1px solid black;
+    white-space: normal;
+}
+
+p {
+    padding: 8px;
+}
